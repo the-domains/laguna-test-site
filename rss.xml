@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Laguna Test Site]]></title>
+        <description><![CDATA[Laguna Test Site]]></description>
+        <link>https://thegrid.ai/laguna-test-site/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jul 2016 12:04:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/laguna-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top Bartenders Name Their Favorite Drinking Cities]]></title>
+            <description><![CDATA[<article><h1>Top Bartenders Name Their Favorite Drinking Cities</h1><p>These are the best drinking cities, according to some of America's best bartenders, including New York, New Orleans, Portland,&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ee71e6476c85c57b74ac55e009be08dc7b85537.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/drink/nation/bartenders-best-drinking-cities/food-and-drink</link>
+            <guid isPermaLink="false">6a995325-d0e2-42ea-b199-10bb8401cd86</guid>
+            <pubDate>Sat, 23 Jul 2016 12:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
+            <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/omata-one-analog-gps-speedometer-cycling-kickstarter</link>
+            <guid isPermaLink="false">f23af180-29d5-4dd9-a97f-2b0a05d849a6</guid>
+            <pubDate>Sat, 23 Jul 2016 12:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
+            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
+            <guid isPermaLink="false">0608b925-a8ef-4d6b-8a03-2412364079c2</guid>
+            <pubDate>Sat, 23 Jul 2016 12:04:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
