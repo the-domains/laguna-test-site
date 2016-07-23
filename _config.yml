@@ -1,0 +1,14 @@
+layout_spectrum: 0.26096507464535534
+typography_spectrum: 0.24262390402145684
+color:
+  brandStrength: 0.41566731641069055
+  lightness: 0.5007958165369928
+  saturation: 0.4203904594760388
+  rhythmicContrast: 0.5826680862810463
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Laguna Test Site
